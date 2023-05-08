@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    gap: 40px;
+    padding: 20px;
+    background-color: #0f1f30;
+    color: inherit;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+/* .nav-container {
+    display: flex;
+    justify-content: space-between;
+
+} */
