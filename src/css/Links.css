@@ -1,9 +1,12 @@
 .link {
     text-decoration: none;
     color: inherit;
+    margin-right: 2vw;
+    transition: 0.2s;
 }
 
 .link:hover {
     text-decoration: dashed;
     color: #90aacc;
+    transition: 0.2s;
 }

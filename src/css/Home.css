@@ -1,5 +1,16 @@
 .main {
     background-color: #0D1B2A;
-    min-height: calc(100vh - 61px - 61px);
+    min-height: calc(100vh - 61px - 72px);
     color: inherit;
+}
+
+.a {
+    text-decoration: underline;
+    color: white;
+    transition: 0.2s;
+}
+
+.a:hover {
+    color: #90aacc;
+    transition: 0.2s;
 }

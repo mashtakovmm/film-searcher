@@ -1,11 +1,17 @@
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     gap: 40px;
     padding: 20px;
     background-color: #0f1f30;
     color: inherit;
+}
+
+.header-left {
+    display: flex;
+    flex-direction: row;
+
 }
 
 .logo {
