@@ -1,0 +1,65 @@
+.info-containter {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.info-with-poster {
+    display: flex;
+    flex-direction: row;
+}
+
+.film-poster {
+    padding-right: 20px;
+    padding-bottom: 13px;
+}
+
+.info-columns {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    text-align: right;
+}
+
+.info-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row-name {
+    min-width: 123px;
+    min-height: 54px;
+}
+
+.row-info {
+    max-width: 254px;
+    text-align: right;
+}
+
+.synopsis {
+    width: 100%;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+
+.title {
+    font-size: 35px;
+}
+
+.rating {
+    font-size: 35px;
+}
+
+.line {
+    width: 100%;
+    margin: 0;
+    
+}
