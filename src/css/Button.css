@@ -23,4 +23,5 @@
 
 .info-button {
     width: 45%;
+    min-width: 170px;
 }

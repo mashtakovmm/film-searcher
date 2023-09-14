@@ -8,7 +8,7 @@ async function fetchWithTitle(title, year=null) {
     } else {
         response = await fetch(`${url}t=${title}&y=${year}`)
     }
-    return response
+        return response
 }
 
 export default fetchWithTitle

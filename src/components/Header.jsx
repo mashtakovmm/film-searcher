@@ -15,6 +15,7 @@ function Header() {
                 <Link to={{pathname:"/attribution/"}} className="link" >Attribution</Link>
             </div>
             <div>
+                {/*TO DO: add theme switcher. Current switch is a placeholder */}
                 <Switch></Switch>
             </div>
         </header>
